@@ -1,4 +1,5 @@
 module.exports = {
+  base: '/shuaiguan.github.io',
   title: "帅关随记",
   description: 'A simple and beautiful vuepress blog theme .',
   dest: 'public',
